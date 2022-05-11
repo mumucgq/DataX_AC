@@ -13,7 +13,6 @@ import org.apache.kudu.client.*;
 import org.apache.kudu.shaded.org.checkerframework.checker.units.qual.K;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import sun.rmi.runtime.Log;
 
 import java.nio.charset.Charset;
 import java.util.*;

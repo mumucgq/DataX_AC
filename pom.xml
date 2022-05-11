@@ -70,6 +70,7 @@
         <module>cassandrareader</module>
         <module>gdbreader</module>
         <module>oceanbasev10reader</module>
+        <module>httpreader</module>
 
         <!-- writer -->
         <module>mysqlwriter</module>
@@ -95,7 +96,7 @@
         <module>hbase11xsqlwriter</module>
         <module>hbase11xsqlreader</module>
         <module>elasticsearchwriter</module>
-        <module>tsdbwriter</module>
+<!--        <module>tsdbwriter</module>-->
         <module>adbpgwriter</module>
         <module>gdbwriter</module>
         <module>cassandrawriter</module>
